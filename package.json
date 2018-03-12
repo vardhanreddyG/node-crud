@@ -1,0 +1,24 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vardhanreddyG/node-crud.git"
+  },
+  "author": "vishnu vardhan reddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vardhanreddyG/node-crud/issues"
+  },
+  "homepage": "https://github.com/vardhanreddyG/node-crud#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-ejs-layouts": "^2.3.1"
+  }
+}
